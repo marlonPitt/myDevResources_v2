@@ -7,4 +7,4 @@ This is a Pen created at CodePen.io. You can find this one at https://codepen.io
 Marlon Pitt. pitt.marlon19@gmail.com
 
 ## License
-see the [LICENSE.md](LICENSE.md) file for details
+see the [LICENSE.txt](LICENSE.txt) file for details
